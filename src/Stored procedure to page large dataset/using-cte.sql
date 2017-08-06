@@ -1,4 +1,6 @@
+--===================================================
 -- Using a Common Table Expression (CTE)
+--===================================================
 
 CREATE PROCEDURE dbo.sp_load_data_cte
 (
